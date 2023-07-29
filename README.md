@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toilathin" alt="toilathin" /></a> </p>
 
-- 🌱 I’m currently learning **.NET, Angular, Redis**
+- 🌱 I’m currently learning **.NET, Angular, Redis, Design and Authentication System in .NET**
 
 - 📫 How to reach me **20110729@student.hcmute.edu.vn**
 
