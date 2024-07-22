@@ -6,7 +6,7 @@
 
 - 🌱 My Tech Stack **.NET Core, Angular, SQL Server, MongoDb, Redis, PostgreSQL, Docker, Azure**
 - 🌱 I’m currently learning **Unit Testing, Integration Testing, TailwindCSS, Ngrx, Azure Cloud Services, CICD**
-- 📫 How to reach me **20110729@student.hcmute.edu.vn**
+- 📫 How to reach me **20110729@student.hcmute.edu.vn** or **ducthingnguyen02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
