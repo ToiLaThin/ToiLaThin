@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Đức Thịnh</h1>
-<h3 align="center">A passionate intern full-stack developer</h3>
+<h3 align="center">A passionate .NET software engineer</h3>
 <p align="left"> <img src="https://gifdb.com/gif/animated-programmer-guy-coding-790a0bs8e8thpisg.html" alt="toilathin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toilathin" alt="toilathin" /></a> </p>
