@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toilathin" alt="toilathin" /></a> </p>
 
 - 🌱 My Tech Stack **.NET Core, Angular, SQL Server, MongoDb, Redis, PostgreSQL, Docker, Azure**
-- 🌱 I’m currently learning **Unit Testing, Integration Testing, TailwindCSS, Ngrx, Azure Cloud Services, CICD, Webpack, AngularJS** and trying my best to become *10x*
+- 🌱 I’m currently learning **Unit Testing, Integration Testing, TailwindCSS, Ngrx, Azure Cloud Services, CICD, Webpack, AngularJS, SQL Server** and trying my best to become *10x*
 - 📫 How to reach me **20110729@student.hcmute.edu.vn** or **ducthingnguyen02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
